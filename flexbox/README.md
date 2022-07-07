@@ -1058,6 +1058,5 @@ Download the images linked in the CSS Advanced and place them into an images dir
   </body>
 </html>
 
-
 ```
-
+</details>
