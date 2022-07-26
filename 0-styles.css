@@ -23,7 +23,8 @@ ul {
 }
 
 li {
-	border: 2.5px solid #727272;
+	
+	border: 2px solid #727272;
 	background: #F7F7F7;
 	border-radius: 10px;
 	width: 300px;
