@@ -54,6 +54,5 @@ $ sass --version
 Ruby Sass 3.7.4
 ```
 
-![Sass/Scss](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/5/ea3f78848fbf9b717e91.jpg)
 
 
