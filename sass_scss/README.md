@@ -53,6 +53,7 @@ $ gem install sass -v 3.7.4
 $ sass --version
 Ruby Sass 3.7.4
 ```
+
 ![Sass/Scss](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2018/5/ea3f78848fbf9b717e91.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20220809%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20220809T203703Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=976022fe84f6cbae59f93c4934d80bb06b89c6d021f0422aa9eaf4125e050b54)
 
 
