@@ -1,9 +1,11 @@
-/* Nested hover change button color on hover */
+/* Nested inside another nested 
+:chnge color on hover*/
 
 button {
     color: #FF0000;
 
-    &:hover {
-        color: #00FF00;
+    &hover {
+    color: #00FF00; 
     }
+
 }
