@@ -4,11 +4,9 @@ When the user hovers over button tags, text color should change to #00FF00
 You must use nested declarations
 */
 
-$color-0: #FF0000;
-$color-1: #00FF00;
 button {
-  color: $color-0;
+  color: #FF0000;
   &:hover {
-    color: $color-1;
+    color: #00FF00;
   }
 }
