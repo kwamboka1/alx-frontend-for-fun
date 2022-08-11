@@ -1,4 +1,4 @@
-/* Creates H* tags, where ‘*’ is the size of the font used */
+/* Create a Sass file that creates H* tags, where ‘*’ is the size of the font used. */
 
 @for $index from 1 through 5 {
   h#{$index} {
